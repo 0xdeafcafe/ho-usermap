@@ -1,0 +1,35 @@
+{
+	"extends": "eslint:recommended",
+	"parser": "babel-eslint",
+
+	"globals": {
+		"console": true
+	},
+
+
+	"env": {
+		"browser": true,
+		"node": true
+	},
+
+	"settings": {
+		"ecmascript": 6
+	},
+
+	"ecmaFeatures": {
+		"jsx": true
+	},
+
+	"rules": {
+		"semi": [2, "always"],
+		"eqeqeq": [1, "smart"],
+		"default-case": 1,
+		"no-new": 2,
+		"guard-for-in": 1,
+		"no-warning-comments": [1, { "terms": ["todo", "fixme", "xxx"], "location": "start" }],
+		"no-fallthrough": 1,
+		"quotes": [2, "single"],
+		"comma-dangle": [1, "always-multiline"],
+		"global-require": 1
+	}
+}

@@ -1,0 +1,47 @@
+object
+
+	tag index (type int32) (offset 0x0C) (specific all)
+		the index of the tag - that this object is - in the tags table
+
+	team (type byte) (offset 0x3F) (specific all)
+		defenders - 0x00
+		attackers - 0x01
+		team 3 - 0x02
+		team 4 - 0x03
+		team 5 - 0x04
+		team 6 - 0x05
+		team 7 - 0x06
+		team 8 - 0x07
+		neutual - 0x08
+	
+	spare clip (type byte) (offset 0x40) (specific weapon)	
+		0 - 0x00
+		1 - 0x01
+		2 - 0x02
+
+	channel (type byte) (offset 0x40) (specific teleporter)	
+		channel 0 - 0x00
+		channel 1 - 0x01
+		channel 2 - 0x02
+		channel 3 - 0x03
+		channel 4 - 0x04
+		channel 5 - 0x05
+		channel 6 - 0x06
+		channel 7 - 0x07
+		channel 8 - 0x08
+		channel 9 - 0x09
+		channel 10 - 0x0A
+
+	respawn rate (type byte) (offset 0x41) (specific all)
+	
+	shape type (type byte) (offset 0x43) (specific all)
+		none - 0x00
+		sphere - 0x01
+		cylinder - 0x02
+		box - 0x03
+
+	shape width/radius (type float) (offset 0x44) (specific all)
+	shape depth (type float) (offset 0x48) (specific all)
+	shape top (type float) (offset 0x4C) (specific all)
+	shape bottom (type float) (offset 0x50) (specific all)
+
