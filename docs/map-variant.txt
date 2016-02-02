@@ -3,6 +3,12 @@ object
 	tag index (type int32) (offset 0x0C) (specific all)
 		the index of the tag - that this object is - in the tags table
 
+	flags (type byte) (offset 0x3E) (specific all)
+		pas(yes) sym(asym) - 00001000 - bit(0x04) 1
+		pas(yes) sym(sym)  - 00000100 - bit(0x05) 1
+		pas(yes) sym(both) - 00001100 - bit(0x04|0x05) 1
+		pas(no)  sym(both) - 00001110 - bit(0x06) 1
+
 	team (type byte) (offset 0x3F) (specific all)
 		defenders - 0x00
 		attackers - 0x01
