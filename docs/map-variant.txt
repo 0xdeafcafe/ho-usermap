@@ -40,6 +40,32 @@ object
 
 	respawn rate (type byte) (offset 0x41) (specific all)
 	
+	type (type byte) (offset 0x42) (specific all)
+		equipment/scenery - 0x00
+		weapon - 0x01
+		grenades - 0x02
+		unk1 - 0x03
+		powerups - 0x04
+		ammo_creates - 0x05
+		light_vehicles - 0x06
+		heavy_vehicles - 0x07
+		arial_vehicles - 0x08
+		unk2 - 0x09
+		teleporters - 0x0A
+		unk3 - 0x0B
+		respawn_points - 0x0C
+		respawn_zones - 0x0D
+		oddball_ball_spawn - 0x0E
+		goal_object_spawn - 0x0F
+		unk4 - 0x10
+		goal_object_area - 0x11
+		koth_goal_objects - 0x12
+		unk5 - 0x13
+		territory_goal_objects - 0x14
+		unk6 - 0x15
+		vip_goal_objects - 0x16
+		juggernaut_goal_objects - 0x17
+
 	shape type (type byte) (offset 0x43) (specific all)
 		none - 0x00
 		sphere - 0x01
