@@ -39,8 +39,10 @@
     {
      "placed_objects": [],
      "offset": 54104,
-     "tag_index": 5407,
-     "tag": "objects\\vehicles\\warthog\\warthog",
+     "tag": {
+      "ident": 5407,
+      "name": "objects\\vehicles\\warthog\\warthog"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -50,8 +52,10 @@
     {
      "placed_objects": [],
      "offset": 54116,
-     "tag_index": 17473,
-     "tag": -1,
+     "tag": {
+      "ident": 17473,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -61,8 +65,10 @@
     {
      "placed_objects": [],
      "offset": 54128,
-     "tag_index": 17474,
-     "tag": -1,
+     "tag": {
+      "ident": 17474,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -72,8 +78,10 @@
     {
      "placed_objects": [],
      "offset": 54140,
-     "tag_index": 17475,
-     "tag": -1,
+     "tag": {
+      "ident": 17475,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -83,8 +91,10 @@
     {
      "placed_objects": [],
      "offset": 54152,
-     "tag_index": 17479,
-     "tag": -1,
+     "tag": {
+      "ident": 17479,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -94,8 +104,10 @@
     {
      "placed_objects": [],
      "offset": 54164,
-     "tag_index": 5529,
-     "tag": "objects\\vehicles\\warthog\\warthog_snow",
+     "tag": {
+      "ident": 5529,
+      "name": "objects\\vehicles\\warthog\\warthog_snow"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -105,8 +117,10 @@
     {
      "placed_objects": [],
      "offset": 54176,
-     "tag_index": 17476,
-     "tag": -1,
+     "tag": {
+      "ident": 17476,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -116,8 +130,10 @@
     {
      "placed_objects": [],
      "offset": 54188,
-     "tag_index": 17477,
-     "tag": -1,
+     "tag": {
+      "ident": 17477,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -127,8 +143,10 @@
     {
      "placed_objects": [],
      "offset": 54200,
-     "tag_index": 17478,
-     "tag": -1,
+     "tag": {
+      "ident": 17478,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -138,8 +156,10 @@
     {
      "placed_objects": [],
      "offset": 54212,
-     "tag_index": 17480,
-     "tag": -1,
+     "tag": {
+      "ident": 17480,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -149,8 +169,10 @@
     {
      "placed_objects": [],
      "offset": 54224,
-     "tag_index": 5402,
-     "tag": "objects\\vehicles\\banshee\\banshee",
+     "tag": {
+      "ident": 5402,
+      "name": "objects\\vehicles\\banshee\\banshee"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -160,8 +182,10 @@
     {
      "placed_objects": [],
      "offset": 54236,
-     "tag_index": 5400,
-     "tag": "objects\\vehicles\\brute_chopper\\brute_chopper",
+     "tag": {
+      "ident": 5400,
+      "name": "objects\\vehicles\\brute_chopper\\brute_chopper"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -171,8 +195,10 @@
     {
      "placed_objects": [],
      "offset": 54248,
-     "tag_index": 5399,
-     "tag": "objects\\vehicles\\ghost\\ghost",
+     "tag": {
+      "ident": 5399,
+      "name": "objects\\vehicles\\ghost\\ghost"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -182,8 +208,10 @@
     {
      "placed_objects": [],
      "offset": 54260,
-     "tag_index": 5528,
-     "tag": "objects\\vehicles\\hornet\\hornet",
+     "tag": {
+      "ident": 5528,
+      "name": "objects\\vehicles\\hornet\\hornet"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -193,8 +221,10 @@
     {
      "placed_objects": [],
      "offset": 54272,
-     "tag_index": 5531,
-     "tag": "objects\\levels\\dlc\\sidewinder\\hornet_lite\\hornet_lite",
+     "tag": {
+      "ident": 5531,
+      "name": "objects\\levels\\dlc\\sidewinder\\hornet_lite\\hornet_lite"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -204,8 +234,10 @@
     {
      "placed_objects": [],
      "offset": 54284,
-     "tag_index": 5526,
-     "tag": "objects\\vehicles\\mongoose\\mongoose",
+     "tag": {
+      "ident": 5526,
+      "name": "objects\\vehicles\\mongoose\\mongoose"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -215,8 +247,10 @@
     {
      "placed_objects": [],
      "offset": 54296,
-     "tag_index": 5408,
-     "tag": "objects\\vehicles\\scorpion\\scorpion",
+     "tag": {
+      "ident": 5408,
+      "name": "objects\\vehicles\\scorpion\\scorpion"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -226,8 +260,10 @@
     {
      "placed_objects": [],
      "offset": 54308,
-     "tag_index": 5401,
-     "tag": "objects\\vehicles\\wraith\\wraith",
+     "tag": {
+      "ident": 5401,
+      "name": "objects\\vehicles\\wraith\\wraith"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -237,8 +273,10 @@
     {
      "placed_objects": [],
      "offset": 54320,
-     "tag_index": 17481,
-     "tag": -1,
+     "tag": {
+      "ident": 17481,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -248,8 +286,10 @@
     {
      "placed_objects": [],
      "offset": 54332,
-     "tag_index": 5398,
-     "tag": "objects\\vehicles\\shade\\shade",
+     "tag": {
+      "ident": 5398,
+      "name": "objects\\vehicles\\shade\\shade"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -259,8 +299,10 @@
     {
      "placed_objects": [],
      "offset": 54344,
-     "tag_index": 5406,
-     "tag": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle",
+     "tag": {
+      "ident": 5406,
+      "name": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -270,8 +312,10 @@
     {
      "placed_objects": [],
      "offset": 54356,
-     "tag_index": 5505,
-     "tag": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle_v2",
+     "tag": {
+      "ident": 5505,
+      "name": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle_v2"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -281,8 +325,10 @@
     {
      "placed_objects": [],
      "offset": 54368,
-     "tag_index": 5506,
-     "tag": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle_v4",
+     "tag": {
+      "ident": 5506,
+      "name": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle_v4"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -292,8 +338,10 @@
     {
      "placed_objects": [],
      "offset": 54380,
-     "tag_index": 5507,
-     "tag": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle_v3",
+     "tag": {
+      "ident": 5507,
+      "name": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle_v3"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -303,8 +351,10 @@
     {
      "placed_objects": [],
      "offset": 54392,
-     "tag_index": 5508,
-     "tag": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle_v6",
+     "tag": {
+      "ident": 5508,
+      "name": "objects\\weapons\\rifle\\assault_rifle\\assault_rifle_v6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -314,8 +364,10 @@
     {
      "placed_objects": [],
      "offset": 54404,
-     "tag_index": 5500,
-     "tag": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle",
+     "tag": {
+      "ident": 5500,
+      "name": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -325,8 +377,10 @@
     {
      "placed_objects": [],
      "offset": 54416,
-     "tag_index": 5563,
-     "tag": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v4",
+     "tag": {
+      "ident": 5563,
+      "name": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v4"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -336,8 +390,10 @@
     {
      "placed_objects": [],
      "offset": 54428,
-     "tag_index": 5564,
-     "tag": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v3",
+     "tag": {
+      "ident": 5564,
+      "name": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v3"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -347,8 +403,10 @@
     {
      "placed_objects": [],
      "offset": 54440,
-     "tag_index": 5509,
-     "tag": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v1",
+     "tag": {
+      "ident": 5509,
+      "name": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v1"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -358,8 +416,10 @@
     {
      "placed_objects": [],
      "offset": 54452,
-     "tag_index": 5510,
-     "tag": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v2",
+     "tag": {
+      "ident": 5510,
+      "name": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v2"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -369,8 +429,10 @@
     {
      "placed_objects": [],
      "offset": 54464,
-     "tag_index": 5565,
-     "tag": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v5",
+     "tag": {
+      "ident": 5565,
+      "name": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v5"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -380,8 +442,10 @@
     {
      "placed_objects": [],
      "offset": 54476,
-     "tag_index": 5511,
-     "tag": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v6",
+     "tag": {
+      "ident": 5511,
+      "name": "objects\\weapons\\rifle\\battle_rifle\\battle_rifle_v6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -391,8 +455,10 @@
     {
      "placed_objects": [],
      "offset": 54488,
-     "tag_index": 6725,
-     "tag": "objects\\weapons\\rifle\\shotgun\\shotgun",
+     "tag": {
+      "ident": 6725,
+      "name": "objects\\weapons\\rifle\\shotgun\\shotgun"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -402,8 +468,10 @@
     {
      "placed_objects": [],
      "offset": 54500,
-     "tag_index": 5553,
-     "tag": "objects\\weapons\\rifle\\sniper_rifle\\sniper_rifle",
+     "tag": {
+      "ident": 5553,
+      "name": "objects\\weapons\\rifle\\sniper_rifle\\sniper_rifle"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -413,8 +481,10 @@
     {
      "placed_objects": [],
      "offset": 54512,
-     "tag_index": 5501,
-     "tag": "objects\\weapons\\rifle\\smg\\smg",
+     "tag": {
+      "ident": 5501,
+      "name": "objects\\weapons\\rifle\\smg\\smg"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -424,8 +494,10 @@
     {
      "placed_objects": [],
      "offset": 54524,
-     "tag_index": 5516,
-     "tag": "objects\\weapons\\rifle\\smg\\smg_v4",
+     "tag": {
+      "ident": 5516,
+      "name": "objects\\weapons\\rifle\\smg\\smg_v4"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -435,8 +507,10 @@
     {
      "placed_objects": [],
      "offset": 54536,
-     "tag_index": 5517,
-     "tag": "objects\\weapons\\rifle\\smg\\smg_v3",
+     "tag": {
+      "ident": 5517,
+      "name": "objects\\weapons\\rifle\\smg\\smg_v3"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -446,8 +520,10 @@
     {
      "placed_objects": [],
      "offset": 54548,
-     "tag_index": 5518,
-     "tag": "objects\\weapons\\rifle\\smg\\smg_v2",
+     "tag": {
+      "ident": 5518,
+      "name": "objects\\weapons\\rifle\\smg\\smg_v2"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -457,8 +533,10 @@
     {
      "placed_objects": [],
      "offset": 54560,
-     "tag_index": 5519,
-     "tag": "objects\\weapons\\rifle\\smg\\smg_v6",
+     "tag": {
+      "ident": 5519,
+      "name": "objects\\weapons\\rifle\\smg\\smg_v6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -468,8 +546,10 @@
     {
      "placed_objects": [],
      "offset": 54572,
-     "tag_index": 5376,
-     "tag": "objects\\weapons\\rifle\\spike_rifle\\spike_rifle",
+     "tag": {
+      "ident": 5376,
+      "name": "objects\\weapons\\rifle\\spike_rifle\\spike_rifle"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -479,8 +559,10 @@
     {
      "placed_objects": [],
      "offset": 54584,
-     "tag_index": 5502,
-     "tag": "objects\\weapons\\pistol\\magnum\\magnum",
+     "tag": {
+      "ident": 5502,
+      "name": "objects\\weapons\\pistol\\magnum\\magnum"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -490,8 +572,10 @@
     {
      "placed_objects": [],
      "offset": 54596,
-     "tag_index": 5523,
-     "tag": "objects\\weapons\\pistol\\magnum\\magnum_v2",
+     "tag": {
+      "ident": 5523,
+      "name": "objects\\weapons\\pistol\\magnum\\magnum_v2"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -501,8 +585,10 @@
     {
      "placed_objects": [],
      "offset": 54608,
-     "tag_index": 5524,
-     "tag": "objects\\weapons\\pistol\\magnum\\magnum_v6",
+     "tag": {
+      "ident": 5524,
+      "name": "objects\\weapons\\pistol\\magnum\\magnum_v6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -512,8 +598,10 @@
     {
      "placed_objects": [],
      "offset": 54620,
-     "tag_index": 5367,
-     "tag": "objects\\weapons\\pistol\\plasma_pistol\\plasma_pistol",
+     "tag": {
+      "ident": 5367,
+      "name": "objects\\weapons\\pistol\\plasma_pistol\\plasma_pistol"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -523,8 +611,10 @@
     {
      "placed_objects": [],
      "offset": 54632,
-     "tag_index": 5525,
-     "tag": "objects\\weapons\\pistol\\plasma_pistol\\plasma_pistol_v6",
+     "tag": {
+      "ident": 5525,
+      "name": "objects\\weapons\\pistol\\plasma_pistol\\plasma_pistol_v6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -534,8 +624,10 @@
     {
      "placed_objects": [],
      "offset": 54644,
-     "tag_index": 5368,
-     "tag": "objects\\weapons\\pistol\\needler\\needler",
+     "tag": {
+      "ident": 5368,
+      "name": "objects\\weapons\\pistol\\needler\\needler"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -545,8 +637,10 @@
     {
      "placed_objects": [],
      "offset": 54656,
-     "tag_index": 5374,
-     "tag": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine",
+     "tag": {
+      "ident": 5374,
+      "name": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -556,8 +650,10 @@
     {
      "placed_objects": [],
      "offset": 54668,
-     "tag_index": 5568,
-     "tag": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v4",
+     "tag": {
+      "ident": 5568,
+      "name": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v4"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -567,8 +663,10 @@
     {
      "placed_objects": [],
      "offset": 54680,
-     "tag_index": 5569,
-     "tag": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v1",
+     "tag": {
+      "ident": 5569,
+      "name": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v1"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -578,8 +676,10 @@
     {
      "placed_objects": [],
      "offset": 54692,
-     "tag_index": 5570,
-     "tag": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v5",
+     "tag": {
+      "ident": 5570,
+      "name": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v5"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -589,8 +689,10 @@
     {
      "placed_objects": [],
      "offset": 54704,
-     "tag_index": 5571,
-     "tag": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v2",
+     "tag": {
+      "ident": 5571,
+      "name": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v2"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -600,8 +702,10 @@
     {
      "placed_objects": [],
      "offset": 54716,
-     "tag_index": 5572,
-     "tag": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v3",
+     "tag": {
+      "ident": 5572,
+      "name": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v3"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -611,8 +715,10 @@
     {
      "placed_objects": [],
      "offset": 54728,
-     "tag_index": 5521,
-     "tag": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v6",
+     "tag": {
+      "ident": 5521,
+      "name": "objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine_v6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -622,8 +728,10 @@
     {
      "placed_objects": [],
      "offset": 54740,
-     "tag_index": 5385,
-     "tag": "objects\\weapons\\rifle\\beam_rifle\\beam_rifle",
+     "tag": {
+      "ident": 5385,
+      "name": "objects\\weapons\\rifle\\beam_rifle\\beam_rifle"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -633,8 +741,10 @@
     {
      "placed_objects": [],
      "offset": 54752,
-     "tag_index": 5380,
-     "tag": "objects\\weapons\\pistol\\excavator\\excavator",
+     "tag": {
+      "ident": 5380,
+      "name": "objects\\weapons\\pistol\\excavator\\excavator"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -644,8 +754,10 @@
     {
      "placed_objects": [],
      "offset": 54764,
-     "tag_index": 5522,
-     "tag": "objects\\weapons\\pistol\\excavator\\excavator_v6",
+     "tag": {
+      "ident": 5522,
+      "name": "objects\\weapons\\pistol\\excavator\\excavator_v6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -655,8 +767,10 @@
     {
      "placed_objects": [],
      "offset": 54776,
-     "tag_index": 5504,
-     "tag": "objects\\weapons\\rifle\\dmr\\dmr",
+     "tag": {
+      "ident": 5504,
+      "name": "objects\\weapons\\rifle\\dmr\\dmr"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -666,8 +780,10 @@
     {
      "placed_objects": [],
      "offset": 54788,
-     "tag_index": 5567,
-     "tag": "objects\\weapons\\rifle\\dmr\\dmr_v5",
+     "tag": {
+      "ident": 5567,
+      "name": "objects\\weapons\\rifle\\dmr\\dmr_v5"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -677,8 +793,10 @@
     {
      "placed_objects": [],
      "offset": 54800,
-     "tag_index": 5512,
-     "tag": "objects\\weapons\\rifle\\dmr\\dmr_v2",
+     "tag": {
+      "ident": 5512,
+      "name": "objects\\weapons\\rifle\\dmr\\dmr_v2"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -688,8 +806,10 @@
     {
      "placed_objects": [],
      "offset": 54812,
-     "tag_index": 5513,
-     "tag": "objects\\weapons\\rifle\\dmr\\dmr_v4",
+     "tag": {
+      "ident": 5513,
+      "name": "objects\\weapons\\rifle\\dmr\\dmr_v4"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -699,8 +819,10 @@
     {
      "placed_objects": [],
      "offset": 54824,
-     "tag_index": 5514,
-     "tag": "objects\\weapons\\rifle\\dmr\\dmr_v3",
+     "tag": {
+      "ident": 5514,
+      "name": "objects\\weapons\\rifle\\dmr\\dmr_v3"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -710,8 +832,10 @@
     {
      "placed_objects": [],
      "offset": 54836,
-     "tag_index": 5566,
-     "tag": "objects\\weapons\\rifle\\dmr\\dmr_v1",
+     "tag": {
+      "ident": 5566,
+      "name": "objects\\weapons\\rifle\\dmr\\dmr_v1"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -721,8 +845,10 @@
     {
      "placed_objects": [],
      "offset": 54848,
-     "tag_index": 5515,
-     "tag": "objects\\weapons\\rifle\\dmr\\dmr_v6",
+     "tag": {
+      "ident": 5515,
+      "name": "objects\\weapons\\rifle\\dmr\\dmr_v6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -732,8 +858,10 @@
     {
      "placed_objects": [],
      "offset": 54860,
-     "tag_index": 5413,
-     "tag": "objects\\weapons\\rifle\\plasma_rifle\\plasma_rifle",
+     "tag": {
+      "ident": 5413,
+      "name": "objects\\weapons\\rifle\\plasma_rifle\\plasma_rifle"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -743,8 +871,10 @@
     {
      "placed_objects": [],
      "offset": 54872,
-     "tag_index": 5520,
-     "tag": "objects\\weapons\\rifle\\plasma_rifle\\plasma_rifle_v6",
+     "tag": {
+      "ident": 5520,
+      "name": "objects\\weapons\\rifle\\plasma_rifle\\plasma_rifle_v6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -754,8 +884,10 @@
     {
      "placed_objects": [],
      "offset": 54884,
-     "tag_index": 5375,
-     "tag": "objects\\weapons\\support_low\\brute_shot\\brute_shot",
+     "tag": {
+      "ident": 5375,
+      "name": "objects\\weapons\\support_low\\brute_shot\\brute_shot"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -765,8 +897,10 @@
     {
      "placed_objects": [],
      "offset": 54896,
-     "tag_index": 5555,
-     "tag": "objects\\weapons\\support_high\\rocket_launcher\\rocket_launcher",
+     "tag": {
+      "ident": 5555,
+      "name": "objects\\weapons\\support_high\\rocket_launcher\\rocket_launcher"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -776,8 +910,10 @@
     {
      "placed_objects": [],
      "offset": 54908,
-     "tag_index": 5554,
-     "tag": "objects\\weapons\\support_high\\spartan_laser\\spartan_laser",
+     "tag": {
+      "ident": 5554,
+      "name": "objects\\weapons\\support_high\\spartan_laser\\spartan_laser"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -787,8 +923,10 @@
     {
      "placed_objects": [],
      "offset": 54920,
-     "tag_index": 5534,
-     "tag": "objects\\weapons\\melee\\energy_blade\\energy_blade",
+     "tag": {
+      "ident": 5534,
+      "name": "objects\\weapons\\melee\\energy_blade\\energy_blade"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -798,8 +936,10 @@
     {
      "placed_objects": [],
      "offset": 54932,
-     "tag_index": 10316,
-     "tag": "objects\\weapons\\turret\\machinegun_turret\\machinegun_turret",
+     "tag": {
+      "ident": 10316,
+      "name": "objects\\weapons\\turret\\machinegun_turret\\machinegun_turret"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -809,8 +949,10 @@
     {
      "placed_objects": [],
      "offset": 54944,
-     "tag_index": 5388,
-     "tag": "objects\\weapons\\melee\\gravity_hammer\\gravity_hammer",
+     "tag": {
+      "ident": 5388,
+      "name": "objects\\weapons\\melee\\gravity_hammer\\gravity_hammer"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -820,8 +962,10 @@
     {
      "placed_objects": [],
      "offset": 54956,
-     "tag_index": 6740,
-     "tag": "objects\\weapons\\turret\\missile_pod\\missile_pod",
+     "tag": {
+      "ident": 6740,
+      "name": "objects\\weapons\\turret\\missile_pod\\missile_pod"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -831,8 +975,10 @@
     {
      "placed_objects": [],
      "offset": 54968,
-     "tag_index": 14872,
-     "tag": "objects\\weapons\\turret\\missile_pod\\missile_pod",
+     "tag": {
+      "ident": 14872,
+      "name": "objects\\weapons\\turret\\missile_pod\\missile_pod"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -842,8 +988,10 @@
     {
      "placed_objects": [],
      "offset": 54980,
-     "tag_index": 5371,
-     "tag": "objects\\weapons\\turret\\plasma_cannon\\plasma_cannon",
+     "tag": {
+      "ident": 5371,
+      "name": "objects\\weapons\\turret\\plasma_cannon\\plasma_cannon"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -853,8 +1001,10 @@
     {
      "placed_objects": [],
      "offset": 54992,
-     "tag_index": 6742,
-     "tag": "objects\\weapons\\support_low\\sentinel_gun\\sentinel_gun",
+     "tag": {
+      "ident": 6742,
+      "name": "objects\\weapons\\support_low\\sentinel_gun\\sentinel_gun"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -864,8 +1014,10 @@
     {
      "placed_objects": [],
      "offset": 55004,
-     "tag_index": 6741,
-     "tag": "objects\\weapons\\turret\\flamethrower\\flamethrower",
+     "tag": {
+      "ident": 6741,
+      "name": "objects\\weapons\\turret\\flamethrower\\flamethrower"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -875,8 +1027,10 @@
     {
      "placed_objects": [],
      "offset": 55016,
-     "tag_index": 5369,
-     "tag": "objects\\weapons\\support_high\\flak_cannon\\flak_cannon",
+     "tag": {
+      "ident": 5369,
+      "name": "objects\\weapons\\support_high\\flak_cannon\\flak_cannon"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -886,8 +1040,10 @@
     {
      "placed_objects": [],
      "offset": 55028,
-     "tag_index": 428,
-     "tag": "objects\\weapons\\grenade\\frag_grenade\\frag_grenade",
+     "tag": {
+      "ident": 428,
+      "name": "objects\\weapons\\grenade\\frag_grenade\\frag_grenade"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -897,8 +1053,10 @@
     {
      "placed_objects": [],
      "offset": 55040,
-     "tag_index": 431,
-     "tag": "objects\\weapons\\grenade\\plasma_grenade\\plasma_grenade",
+     "tag": {
+      "ident": 431,
+      "name": "objects\\weapons\\grenade\\plasma_grenade\\plasma_grenade"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -908,8 +1066,10 @@
     {
      "placed_objects": [],
      "offset": 55052,
-     "tag_index": 434,
-     "tag": "objects\\weapons\\grenade\\claymore_grenade\\claymore_grenade",
+     "tag": {
+      "ident": 434,
+      "name": "objects\\weapons\\grenade\\claymore_grenade\\claymore_grenade"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -919,8 +1079,10 @@
     {
      "placed_objects": [],
      "offset": 55064,
-     "tag_index": 437,
-     "tag": "objects\\weapons\\grenade\\firebomb_grenade\\firebomb_grenade",
+     "tag": {
+      "ident": 437,
+      "name": "objects\\weapons\\grenade\\firebomb_grenade\\firebomb_grenade"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -930,8 +1092,10 @@
     {
      "placed_objects": [],
      "offset": 55076,
-     "tag_index": 5476,
-     "tag": "objects\\equipment\\bubbleshield_equipment\\bubbleshield_equipment",
+     "tag": {
+      "ident": 5476,
+      "name": "objects\\equipment\\bubbleshield_equipment\\bubbleshield_equipment"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -941,8 +1105,10 @@
     {
      "placed_objects": [],
      "offset": 55088,
-     "tag_index": 5473,
-     "tag": "objects\\equipment\\powerdrain_equipment\\powerdrain_equipment",
+     "tag": {
+      "ident": 5473,
+      "name": "objects\\equipment\\powerdrain_equipment\\powerdrain_equipment"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -952,8 +1118,10 @@
     {
      "placed_objects": [],
      "offset": 55100,
-     "tag_index": 5479,
-     "tag": "objects\\equipment\\tripmine_equipment\\tripmine_equipment",
+     "tag": {
+      "ident": 5479,
+      "name": "objects\\equipment\\tripmine_equipment\\tripmine_equipment"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -963,8 +1131,10 @@
     {
      "placed_objects": [],
      "offset": 55112,
-     "tag_index": 11945,
-     "tag": "objects\\equipment\\gravlift_equipment\\gravlift_equipment",
+     "tag": {
+      "ident": 11945,
+      "name": "objects\\equipment\\gravlift_equipment\\gravlift_equipment"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -974,8 +1144,10 @@
     {
      "placed_objects": [],
      "offset": 55124,
-     "tag_index": 5478,
-     "tag": "objects\\equipment\\regenerator_equipment\\regenerator_equipment",
+     "tag": {
+      "ident": 5478,
+      "name": "objects\\equipment\\regenerator_equipment\\regenerator_equipment"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -985,8 +1157,10 @@
     {
      "placed_objects": [],
      "offset": 55136,
-     "tag_index": 5472,
-     "tag": "objects\\equipment\\jammer_equipment\\jammer_equipment",
+     "tag": {
+      "ident": 5472,
+      "name": "objects\\equipment\\jammer_equipment\\jammer_equipment"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -996,8 +1170,10 @@
     {
      "placed_objects": [],
      "offset": 55148,
-     "tag_index": 5477,
-     "tag": "objects\\equipment\\superflare_equipment\\superflare_equipment",
+     "tag": {
+      "ident": 5477,
+      "name": "objects\\equipment\\superflare_equipment\\superflare_equipment"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1007,8 +1183,10 @@
     {
      "placed_objects": [],
      "offset": 55160,
-     "tag_index": 5481,
-     "tag": "objects\\equipment\\instantcover_equipment\\instantcover_equipment",
+     "tag": {
+      "ident": 5481,
+      "name": "objects\\equipment\\instantcover_equipment\\instantcover_equipment"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1018,8 +1196,10 @@
     {
      "placed_objects": [],
      "offset": 55172,
-     "tag_index": 11947,
-     "tag": "objects\\multi\\powerups\\powerup_red\\powerup_red",
+     "tag": {
+      "ident": 11947,
+      "name": "objects\\multi\\powerups\\powerup_red\\powerup_red"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1029,8 +1209,10 @@
     {
      "placed_objects": [],
      "offset": 55184,
-     "tag_index": 11948,
-     "tag": "objects\\multi\\powerups\\powerup_yellow\\powerup_yellow",
+     "tag": {
+      "ident": 11948,
+      "name": "objects\\multi\\powerups\\powerup_yellow\\powerup_yellow"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1040,8 +1222,10 @@
     {
      "placed_objects": [],
      "offset": 55196,
-     "tag_index": 11946,
-     "tag": "objects\\multi\\powerups\\powerup_blue\\powerup_blue",
+     "tag": {
+      "ident": 11946,
+      "name": "objects\\multi\\powerups\\powerup_blue\\powerup_blue"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1051,8 +1235,10 @@
     {
      "placed_objects": [],
      "offset": 55208,
-     "tag_index": 7054,
-     "tag": "objects\\powerups\\unsc_ammo_large\\unsc_ammo_large",
+     "tag": {
+      "ident": 7054,
+      "name": "objects\\powerups\\unsc_ammo_large\\unsc_ammo_large"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1062,8 +1248,10 @@
     {
      "placed_objects": [],
      "offset": 55220,
-     "tag_index": 7055,
-     "tag": "objects\\powerups\\unsc_ammo_small\\unsc_ammo_small",
+     "tag": {
+      "ident": 7055,
+      "name": "objects\\powerups\\unsc_ammo_small\\unsc_ammo_small"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1073,8 +1261,10 @@
     {
      "placed_objects": [],
      "offset": 55232,
-     "tag_index": 13476,
-     "tag": "objects\\gear\\human\\military\\fusion_coil\\fusion_coil",
+     "tag": {
+      "ident": 13476,
+      "name": "objects\\gear\\human\\military\\fusion_coil\\fusion_coil"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1120,8 +1310,10 @@
       }
      ],
      "offset": 55244,
-     "tag_index": 11955,
-     "tag": "objects\\gear\\human\\military\\crate_packing\\crate_packing",
+     "tag": {
+      "ident": 11955,
+      "name": "objects\\gear\\human\\military\\crate_packing\\crate_packing"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 1,
      "count_on_map": 1,
@@ -1131,8 +1323,10 @@
     {
      "placed_objects": [],
      "offset": 55256,
-     "tag_index": 11956,
-     "tag": "objects\\gear\\human\\military\\crate_packing_giant\\crate_packing_giant_mp",
+     "tag": {
+      "ident": 11956,
+      "name": "objects\\gear\\human\\military\\crate_packing_giant\\crate_packing_giant_mp"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1142,8 +1336,10 @@
     {
      "placed_objects": [],
      "offset": 55268,
-     "tag_index": 11964,
-     "tag": "objects\\gear\\human\\military\\case_ap_turret\\case_ap_turret",
+     "tag": {
+      "ident": 11964,
+      "name": "objects\\gear\\human\\military\\case_ap_turret\\case_ap_turret"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1153,8 +1349,10 @@
     {
      "placed_objects": [],
      "offset": 55280,
-     "tag_index": 13477,
-     "tag": "objects\\gear\\human\\military\\antennae_mast\\antennae_mast",
+     "tag": {
+      "ident": 13477,
+      "name": "objects\\gear\\human\\military\\antennae_mast\\antennae_mast"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1164,8 +1362,10 @@
     {
      "placed_objects": [],
      "offset": 55292,
-     "tag_index": 13505,
-     "tag": "objects\\gear\\human\\military\\drum_12gal\\drum_12gal",
+     "tag": {
+      "ident": 13505,
+      "name": "objects\\gear\\human\\military\\drum_12gal\\drum_12gal"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1175,8 +1375,10 @@
     {
      "placed_objects": [],
      "offset": 55304,
-     "tag_index": 11953,
-     "tag": "objects\\gear\\human\\military\\drum_55gal\\drum_55gal",
+     "tag": {
+      "ident": 11953,
+      "name": "objects\\gear\\human\\military\\drum_55gal\\drum_55gal"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1186,8 +1388,10 @@
     {
      "placed_objects": [],
      "offset": 55316,
-     "tag_index": 11951,
-     "tag": "objects\\gear\\human\\military\\hu_mil_radio_big\\hu_mil_radio_big",
+     "tag": {
+      "ident": 11951,
+      "name": "objects\\gear\\human\\military\\hu_mil_radio_big\\hu_mil_radio_big"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1197,8 +1401,10 @@
     {
      "placed_objects": [],
      "offset": 55328,
-     "tag_index": 13479,
-     "tag": "objects\\gear\\human\\military\\hu_mil_radio_small\\hu_mil_radio_small",
+     "tag": {
+      "ident": 13479,
+      "name": "objects\\gear\\human\\military\\hu_mil_radio_small\\hu_mil_radio_small"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1208,8 +1414,10 @@
     {
      "placed_objects": [],
      "offset": 55340,
-     "tag_index": 13480,
-     "tag": "objects\\gear\\human\\military\\resupply_capsule_unfired\\resupply_capsule_unfired",
+     "tag": {
+      "ident": 13480,
+      "name": "objects\\gear\\human\\military\\resupply_capsule_unfired\\resupply_capsule_unfired"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1219,8 +1427,10 @@
     {
      "placed_objects": [],
      "offset": 55352,
-     "tag_index": 13481,
-     "tag": "objects\\gear\\human\\military\\resupply_capsule_panel\\resupply_capsule_panel",
+     "tag": {
+      "ident": 13481,
+      "name": "objects\\gear\\human\\military\\resupply_capsule_panel\\resupply_capsule_panel"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1230,8 +1440,10 @@
     {
      "placed_objects": [],
      "offset": 55364,
-     "tag_index": 16933,
-     "tag": "0x00004225",
+     "tag": {
+      "ident": 16933,
+      "name": "0x00004225"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1241,8 +1453,10 @@
     {
      "placed_objects": [],
      "offset": 55376,
-     "tag_index": 13483,
-     "tag": "objects\\gear\\human\\medical\\medical_crate\\medical_crate",
+     "tag": {
+      "ident": 13483,
+      "name": "objects\\gear\\human\\medical\\medical_crate\\medical_crate"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1252,8 +1466,10 @@
     {
      "placed_objects": [],
      "offset": 55388,
-     "tag_index": 11967,
-     "tag": "objects\\equipment\\gravlift_permanent\\gravlift_permanent",
+     "tag": {
+      "ident": 11967,
+      "name": "objects\\equipment\\gravlift_permanent\\gravlift_permanent"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1263,8 +1479,10 @@
     {
      "placed_objects": [],
      "offset": 55400,
-     "tag_index": 11966,
-     "tag": "objects\\gear\\covenant\\military\\cov_sword_holder\\cov_sword_holder",
+     "tag": {
+      "ident": 11966,
+      "name": "objects\\gear\\covenant\\military\\cov_sword_holder\\cov_sword_holder"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1274,8 +1492,10 @@
     {
      "placed_objects": [],
      "offset": 55412,
-     "tag_index": 13478,
-     "tag": "objects\\gear\\human\\military\\case\\case",
+     "tag": {
+      "ident": 13478,
+      "name": "objects\\gear\\human\\military\\case\\case"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1285,8 +1505,10 @@
     {
      "placed_objects": [],
      "offset": 55424,
-     "tag_index": 11962,
-     "tag": "objects\\gear\\covenant\\military\\battery\\battery",
+     "tag": {
+      "ident": 11962,
+      "name": "objects\\gear\\covenant\\military\\battery\\battery"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1296,8 +1518,10 @@
     {
      "placed_objects": [],
      "offset": 55436,
-     "tag_index": 11963,
-     "tag": "objects\\gear\\forerunner\\power_core_for\\power_core_for",
+     "tag": {
+      "ident": 11963,
+      "name": "objects\\gear\\forerunner\\power_core_for\\power_core_for"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1307,8 +1531,10 @@
     {
      "placed_objects": [],
      "offset": 55448,
-     "tag_index": 11957,
-     "tag": "objects\\gear\\human\\industrial\\h_barrel_rusty\\h_barrel_rusty",
+     "tag": {
+      "ident": 11957,
+      "name": "objects\\gear\\human\\industrial\\h_barrel_rusty\\h_barrel_rusty"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1318,8 +1544,10 @@
     {
      "placed_objects": [],
      "offset": 55460,
-     "tag_index": 11958,
-     "tag": "objects\\gear\\human\\industrial\\h_barrel_rusty_small\\h_barrel_rusty_small",
+     "tag": {
+      "ident": 11958,
+      "name": "objects\\gear\\human\\industrial\\h_barrel_rusty_small\\h_barrel_rusty_small"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1329,8 +1557,10 @@
     {
      "placed_objects": [],
      "offset": 55472,
-     "tag_index": 11954,
-     "tag": "objects\\gear\\human\\military\\camping_stool_mp\\camping_stool_mp",
+     "tag": {
+      "ident": 11954,
+      "name": "objects\\gear\\human\\military\\camping_stool_mp\\camping_stool_mp"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1340,8 +1570,10 @@
     {
      "placed_objects": [],
      "offset": 55484,
-     "tag_index": 11965,
-     "tag": "objects\\gear\\human\\military\\generator\\generator",
+     "tag": {
+      "ident": 11965,
+      "name": "objects\\gear\\human\\military\\generator\\generator"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1351,8 +1583,10 @@
     {
      "placed_objects": [],
      "offset": 55496,
-     "tag_index": 11952,
-     "tag": "objects\\gear\\human\\military\\hu_mil_rucksack\\rucksack",
+     "tag": {
+      "ident": 11952,
+      "name": "objects\\gear\\human\\military\\hu_mil_rucksack\\rucksack"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1362,8 +1596,10 @@
     {
      "placed_objects": [],
      "offset": 55508,
-     "tag_index": 11960,
-     "tag": "objects\\gear\\human\\industrial\\sawhorse\\sawhorse",
+     "tag": {
+      "ident": 11960,
+      "name": "objects\\gear\\human\\industrial\\sawhorse\\sawhorse"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1373,8 +1609,10 @@
     {
      "placed_objects": [],
      "offset": 55520,
-     "tag_index": 11961,
-     "tag": "objects\\gear\\human\\industrial\\street_cone\\street_cone",
+     "tag": {
+      "ident": 11961,
+      "name": "objects\\gear\\human\\industrial\\street_cone\\street_cone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1384,8 +1622,10 @@
     {
      "placed_objects": [],
      "offset": 55532,
-     "tag_index": 17482,
-     "tag": -1,
+     "tag": {
+      "ident": 17482,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1395,8 +1635,10 @@
     {
      "placed_objects": [],
      "offset": 55544,
-     "tag_index": 13504,
-     "tag": "objects\\gear\\covenant\\military\\crate_space\\crate_space",
+     "tag": {
+      "ident": 13504,
+      "name": "objects\\gear\\covenant\\military\\crate_space\\crate_space"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1406,8 +1648,10 @@
     {
      "placed_objects": [],
      "offset": 55556,
-     "tag_index": 13506,
-     "tag": "objects\\gear\\human\\military\\blitzcan\\blitzcan",
+     "tag": {
+      "ident": 13506,
+      "name": "objects\\gear\\human\\military\\blitzcan\\blitzcan"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1417,8 +1661,10 @@
     {
      "placed_objects": [],
      "offset": 55568,
-     "tag_index": 13478,
-     "tag": "objects\\gear\\human\\military\\case\\case",
+     "tag": {
+      "ident": 13478,
+      "name": "objects\\gear\\human\\military\\case\\case"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1428,8 +1674,10 @@
     {
      "placed_objects": [],
      "offset": 55580,
-     "tag_index": 10223,
-     "tag": "0x000027EF (Another forklift part?)",
+     "tag": {
+      "ident": 10223,
+      "name": "0x000027EF (Another forklift part?)"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1439,8 +1687,10 @@
     {
      "placed_objects": [],
      "offset": 55592,
-     "tag_index": 13509,
-     "tag": "objects\\levels\\solo\\100_citadel\\foliage\\plant_pine_tree_large\\plant_pine_tree_large",
+     "tag": {
+      "ident": 13509,
+      "name": "objects\\levels\\solo\\100_citadel\\foliage\\plant_pine_tree_large\\plant_pine_tree_large"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1450,8 +1700,10 @@
     {
      "placed_objects": [],
      "offset": 55604,
-     "tag_index": 17483,
-     "tag": -1,
+     "tag": {
+      "ident": 17483,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1461,8 +1713,10 @@
     {
      "placed_objects": [],
      "offset": 55616,
-     "tag_index": 13482,
-     "tag": "objects\\gear\\human\\military\\barricade_large\\barricade_large",
+     "tag": {
+      "ident": 13482,
+      "name": "objects\\gear\\human\\military\\barricade_large\\barricade_large"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1472,8 +1726,10 @@
     {
      "placed_objects": [],
      "offset": 55628,
-     "tag_index": 16340,
-     "tag": "0x00003FD4",
+     "tag": {
+      "ident": 16340,
+      "name": "0x00003FD4"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1483,8 +1739,10 @@
     {
      "placed_objects": [],
      "offset": 55640,
-     "tag_index": 16929,
-     "tag": "0x00004221",
+     "tag": {
+      "ident": 16929,
+      "name": "0x00004221"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1494,8 +1752,10 @@
     {
      "placed_objects": [],
      "offset": 55652,
-     "tag_index": 17484,
-     "tag": -1,
+     "tag": {
+      "ident": 17484,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1505,8 +1765,10 @@
     {
      "placed_objects": [],
      "offset": 55664,
-     "tag_index": 16934,
-     "tag": "0x00004226",
+     "tag": {
+      "ident": 16934,
+      "name": "0x00004226"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1516,8 +1778,10 @@
     {
      "placed_objects": [],
      "offset": 55676,
-     "tag_index": 16932,
-     "tag": "0x00004224",
+     "tag": {
+      "ident": 16932,
+      "name": "0x00004224"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1527,8 +1791,10 @@
     {
      "placed_objects": [],
      "offset": 55688,
-     "tag_index": 16339,
-     "tag": "0x00003FD3",
+     "tag": {
+      "ident": 16339,
+      "name": "0x00003FD3"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1538,8 +1804,10 @@
     {
      "placed_objects": [],
      "offset": 55700,
-     "tag_index": 16928,
-     "tag": "0x00004220",
+     "tag": {
+      "ident": 16928,
+      "name": "0x00004220"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1549,8 +1817,10 @@
     {
      "placed_objects": [],
      "offset": 55712,
-     "tag_index": 16931,
-     "tag": "0x00004223",
+     "tag": {
+      "ident": 16931,
+      "name": "0x00004223"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1560,8 +1830,10 @@
     {
      "placed_objects": [],
      "offset": 55724,
-     "tag_index": 16342,
-     "tag": "0x00003FD6",
+     "tag": {
+      "ident": 16342,
+      "name": "0x00003FD6"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1571,8 +1843,10 @@
     {
      "placed_objects": [],
      "offset": 55736,
-     "tag_index": 16341,
-     "tag": "0x00003FD5",
+     "tag": {
+      "ident": 16341,
+      "name": "0x00003FD5"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1582,8 +1856,10 @@
     {
      "placed_objects": [],
      "offset": 55748,
-     "tag_index": 14996,
-     "tag": "0x00003A94 (A mancannon?)",
+     "tag": {
+      "ident": 14996,
+      "name": "0x00003A94 (A mancannon?)"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1593,8 +1869,10 @@
     {
      "placed_objects": [],
      "offset": 55760,
-     "tag_index": 12005,
-     "tag": "objects\\levels\\multi\\salvation\\large_field\\large_field",
+     "tag": {
+      "ident": 12005,
+      "name": "objects\\levels\\multi\\salvation\\large_field\\large_field"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1604,8 +1882,10 @@
     {
      "placed_objects": [],
      "offset": 55772,
-     "tag_index": 15006,
-     "tag": "objects\\levels\\multi\\guardian\\man_cannon_guardian_iii\\man_cannon_guardian_iii",
+     "tag": {
+      "ident": 15006,
+      "name": "objects\\levels\\multi\\guardian\\man_cannon_guardian_iii\\man_cannon_guardian_iii"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1615,8 +1895,10 @@
     {
      "placed_objects": [],
      "offset": 55784,
-     "tag_index": 16930,
-     "tag": "0x00004222",
+     "tag": {
+      "ident": 16930,
+      "name": "0x00004222"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1626,8 +1908,10 @@
     {
      "placed_objects": [],
      "offset": 55796,
-     "tag_index": 11959,
-     "tag": "objects\\gear\\human\\industrial\\pallet_large\\pallet_large",
+     "tag": {
+      "ident": 11959,
+      "name": "objects\\gear\\human\\industrial\\pallet_large\\pallet_large"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1637,8 +1921,10 @@
     {
      "placed_objects": [],
      "offset": 55808,
-     "tag_index": 28095,
-     "tag": -1,
+     "tag": {
+      "ident": 28095,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1648,8 +1934,10 @@
     {
      "placed_objects": [],
      "offset": 55820,
-     "tag_index": 28100,
-     "tag": -1,
+     "tag": {
+      "ident": 28100,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1659,8 +1947,10 @@
     {
      "placed_objects": [],
      "offset": 55832,
-     "tag_index": 28105,
-     "tag": -1,
+     "tag": {
+      "ident": 28105,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1670,8 +1960,10 @@
     {
      "placed_objects": [],
      "offset": 55844,
-     "tag_index": 28110,
-     "tag": -1,
+     "tag": {
+      "ident": 28110,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1681,8 +1973,10 @@
     {
      "placed_objects": [],
      "offset": 55856,
-     "tag_index": 28115,
-     "tag": -1,
+     "tag": {
+      "ident": 28115,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1692,8 +1986,10 @@
     {
      "placed_objects": [],
      "offset": 55868,
-     "tag_index": 28120,
-     "tag": -1,
+     "tag": {
+      "ident": 28120,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1703,8 +1999,10 @@
     {
      "placed_objects": [],
      "offset": 55880,
-     "tag_index": 28125,
-     "tag": -1,
+     "tag": {
+      "ident": 28125,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1714,8 +2012,10 @@
     {
      "placed_objects": [],
      "offset": 55892,
-     "tag_index": 28130,
-     "tag": -1,
+     "tag": {
+      "ident": 28130,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1725,8 +2025,10 @@
     {
      "placed_objects": [],
      "offset": 55904,
-     "tag_index": 28136,
-     "tag": -1,
+     "tag": {
+      "ident": 28136,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1736,8 +2038,10 @@
     {
      "placed_objects": [],
      "offset": 55916,
-     "tag_index": 28138,
-     "tag": -1,
+     "tag": {
+      "ident": 28138,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1747,8 +2051,10 @@
     {
      "placed_objects": [],
      "offset": 55928,
-     "tag_index": 28140,
-     "tag": -1,
+     "tag": {
+      "ident": 28140,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1758,8 +2064,10 @@
     {
      "placed_objects": [],
      "offset": 55940,
-     "tag_index": 28142,
-     "tag": -1,
+     "tag": {
+      "ident": 28142,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1769,8 +2077,10 @@
     {
      "placed_objects": [],
      "offset": 55952,
-     "tag_index": 28153,
-     "tag": -1,
+     "tag": {
+      "ident": 28153,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1780,8 +2090,10 @@
     {
      "placed_objects": [],
      "offset": 55964,
-     "tag_index": 28158,
-     "tag": -1,
+     "tag": {
+      "ident": 28158,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1791,8 +2103,10 @@
     {
      "placed_objects": [],
      "offset": 55976,
-     "tag_index": 28160,
-     "tag": -1,
+     "tag": {
+      "ident": 28160,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1802,8 +2116,10 @@
     {
      "placed_objects": [],
      "offset": 55988,
-     "tag_index": 28162,
-     "tag": -1,
+     "tag": {
+      "ident": 28162,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1813,8 +2129,10 @@
     {
      "placed_objects": [],
      "offset": 56000,
-     "tag_index": 11968,
-     "tag": "objects\\multi\\teleporter_sender\\teleporter_sender",
+     "tag": {
+      "ident": 11968,
+      "name": "objects\\multi\\teleporter_sender\\teleporter_sender"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1824,8 +2142,10 @@
     {
      "placed_objects": [],
      "offset": 56012,
-     "tag_index": 11969,
-     "tag": "objects\\multi\\teleporter_reciever\\teleporter_reciever",
+     "tag": {
+      "ident": 11969,
+      "name": "objects\\multi\\teleporter_reciever\\teleporter_reciever"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1906,8 +2226,10 @@
       }
      ],
      "offset": 56024,
-     "tag_index": 11970,
-     "tag": "objects\\multi\\teleporter_2way\\teleporter_2way",
+     "tag": {
+      "ident": 11970,
+      "name": "objects\\multi\\teleporter_2way\\teleporter_2way"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1917,8 +2239,10 @@
     {
      "placed_objects": [],
      "offset": 56036,
-     "tag_index": 17486,
-     "tag": -1,
+     "tag": {
+      "ident": 17486,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1928,8 +2252,10 @@
     {
      "placed_objects": [],
      "offset": 56048,
-     "tag_index": 17487,
-     "tag": -1,
+     "tag": {
+      "ident": 17487,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1939,8 +2265,10 @@
     {
      "placed_objects": [],
      "offset": 56060,
-     "tag_index": 17488,
-     "tag": -1,
+     "tag": {
+      "ident": 17488,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1950,8 +2278,10 @@
     {
      "placed_objects": [],
      "offset": 56072,
-     "tag_index": 17489,
-     "tag": -1,
+     "tag": {
+      "ident": 17489,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1961,8 +2291,10 @@
     {
      "placed_objects": [],
      "offset": 56084,
-     "tag_index": 17490,
-     "tag": -1,
+     "tag": {
+      "ident": 17490,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -1972,8 +2304,10 @@
     {
      "placed_objects": [],
      "offset": 56096,
-     "tag_index": 17491,
-     "tag": -1,
+     "tag": {
+      "ident": 17491,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2019,8 +2353,10 @@
       }
      ],
      "offset": 56108,
-     "tag_index": 11920,
-     "tag": "objects\\multi\\spawning\\respawn_point",
+     "tag": {
+      "ident": 11920,
+      "name": "objects\\multi\\spawning\\respawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 255,
      "count_on_map": 1,
@@ -2030,8 +2366,10 @@
     {
      "placed_objects": [],
      "offset": 56120,
-     "tag_index": 11928,
-     "tag": "objects\\multi\\assault\\assault_initial_spawn_point",
+     "tag": {
+      "ident": 11928,
+      "name": "objects\\multi\\assault\\assault_initial_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2041,8 +2379,10 @@
     {
      "placed_objects": [],
      "offset": 56132,
-     "tag_index": 11921,
-     "tag": "objects\\multi\\ctf\\ctf_initial_spawn_point",
+     "tag": {
+      "ident": 11921,
+      "name": "objects\\multi\\ctf\\ctf_initial_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2052,8 +2392,10 @@
     {
      "placed_objects": [],
      "offset": 56144,
-     "tag_index": 11930,
-     "tag": "objects\\multi\\koth\\koth_initial_spawn_point",
+     "tag": {
+      "ident": 11930,
+      "name": "objects\\multi\\koth\\koth_initial_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2063,8 +2405,10 @@
     {
      "placed_objects": [],
      "offset": 56156,
-     "tag_index": 11933,
-     "tag": "objects\\multi\\oddball\\oddball_initial_spawn_point",
+     "tag": {
+      "ident": 11933,
+      "name": "objects\\multi\\oddball\\oddball_initial_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2074,8 +2418,10 @@
     {
      "placed_objects": [],
      "offset": 56168,
-     "tag_index": 11922,
-     "tag": "objects\\multi\\slayer\\slayer_initial_spawn_point",
+     "tag": {
+      "ident": 11922,
+      "name": "objects\\multi\\slayer\\slayer_initial_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2085,8 +2431,10 @@
     {
      "placed_objects": [],
      "offset": 56180,
-     "tag_index": 11932,
-     "tag": "objects\\multi\\territories\\territories_initial_spawn_point",
+     "tag": {
+      "ident": 11932,
+      "name": "objects\\multi\\territories\\territories_initial_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2096,8 +2444,10 @@
     {
      "placed_objects": [],
      "offset": 56192,
-     "tag_index": 11934,
-     "tag": "objects\\multi\\vip\\vip_initial_spawn_point",
+     "tag": {
+      "ident": 11934,
+      "name": "objects\\multi\\vip\\vip_initial_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2107,8 +2457,10 @@
     {
      "placed_objects": [],
      "offset": 56204,
-     "tag_index": 11929,
-     "tag": "objects\\multi\\assault\\assault_respawn_zone",
+     "tag": {
+      "ident": 11929,
+      "name": "objects\\multi\\assault\\assault_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2118,8 +2470,10 @@
     {
      "placed_objects": [],
      "offset": 56216,
-     "tag_index": 11923,
-     "tag": "objects\\multi\\ctf\\ctf_respawn_zone",
+     "tag": {
+      "ident": 11923,
+      "name": "objects\\multi\\ctf\\ctf_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2129,8 +2483,10 @@
     {
      "placed_objects": [],
      "offset": 56228,
-     "tag_index": 11925,
-     "tag": "objects\\multi\\ctf\\ctf_flag_at_home_respawn_zone",
+     "tag": {
+      "ident": 11925,
+      "name": "objects\\multi\\ctf\\ctf_flag_at_home_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2140,8 +2496,10 @@
     {
      "placed_objects": [],
      "offset": 56240,
-     "tag_index": 11926,
-     "tag": "objects\\multi\\ctf\\ctf_flag_away_respawn_zone",
+     "tag": {
+      "ident": 11926,
+      "name": "objects\\multi\\ctf\\ctf_flag_away_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2151,8 +2509,10 @@
     {
      "placed_objects": [],
      "offset": 56252,
-     "tag_index": 11931,
-     "tag": "objects\\multi\\koth\\koth_respawn_zone",
+     "tag": {
+      "ident": 11931,
+      "name": "objects\\multi\\koth\\koth_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2162,8 +2522,10 @@
     {
      "placed_objects": [],
      "offset": 56264,
-     "tag_index": 11980,
-     "tag": "objects\\multi\\oddball\\oddball_respawn_zone",
+     "tag": {
+      "ident": 11980,
+      "name": "objects\\multi\\oddball\\oddball_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2173,8 +2535,10 @@
     {
      "placed_objects": [],
      "offset": 56276,
-     "tag_index": 11924,
-     "tag": "objects\\multi\\slayer\\slayer_respawn_zone",
+     "tag": {
+      "ident": 11924,
+      "name": "objects\\multi\\slayer\\slayer_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2184,8 +2548,10 @@
     {
      "placed_objects": [],
      "offset": 56288,
-     "tag_index": 11927,
-     "tag": "objects\\multi\\territories\\territories_respawn_zone",
+     "tag": {
+      "ident": 11927,
+      "name": "objects\\multi\\territories\\territories_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2195,8 +2561,10 @@
     {
      "placed_objects": [],
      "offset": 56300,
-     "tag_index": 11935,
-     "tag": "objects\\multi\\vip\\vip_respawn_zone",
+     "tag": {
+      "ident": 11935,
+      "name": "objects\\multi\\vip\\vip_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2206,8 +2574,10 @@
     {
      "placed_objects": [],
      "offset": 56312,
-     "tag_index": 11943,
-     "tag": "objects\\multi\\infection\\infection_initial_spawn_point",
+     "tag": {
+      "ident": 11943,
+      "name": "objects\\multi\\infection\\infection_initial_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2217,8 +2587,10 @@
     {
      "placed_objects": [],
      "offset": 56324,
-     "tag_index": 11944,
-     "tag": "objects\\multi\\infection\\infection_respawn_zone",
+     "tag": {
+      "ident": 11944,
+      "name": "objects\\multi\\infection\\infection_respawn_zone"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2228,8 +2600,10 @@
     {
      "placed_objects": [],
      "offset": 56336,
-     "tag_index": 11971,
-     "tag": "objects\\multi\\ctf\\ctf_flag_spawn_point",
+     "tag": {
+      "ident": 11971,
+      "name": "objects\\multi\\ctf\\ctf_flag_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2239,8 +2613,10 @@
     {
      "placed_objects": [],
      "offset": 56348,
-     "tag_index": 11972,
-     "tag": "objects\\multi\\ctf\\ctf_flag_return_area",
+     "tag": {
+      "ident": 11972,
+      "name": "objects\\multi\\ctf\\ctf_flag_return_area"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2250,8 +2626,10 @@
     {
      "placed_objects": [],
      "offset": 56360,
-     "tag_index": 11973,
-     "tag": "objects\\multi\\assault\\assault_bomb_spawn_point",
+     "tag": {
+      "ident": 11973,
+      "name": "objects\\multi\\assault\\assault_bomb_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2261,8 +2639,10 @@
     {
      "placed_objects": [],
      "offset": 56372,
-     "tag_index": 11974,
-     "tag": "objects\\multi\\assault\\assault_bomb_goal_area",
+     "tag": {
+      "ident": 11974,
+      "name": "objects\\multi\\assault\\assault_bomb_goal_area"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2272,8 +2652,10 @@
     {
      "placed_objects": [],
      "offset": 56384,
-     "tag_index": 11975,
-     "tag": "objects\\multi\\juggernaut\\juggernaut_destination_static",
+     "tag": {
+      "ident": 11975,
+      "name": "objects\\multi\\juggernaut\\juggernaut_destination_static"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2283,8 +2665,10 @@
     {
      "placed_objects": [],
      "offset": 56396,
-     "tag_index": 11976,
-     "tag": "objects\\multi\\koth\\koth_hill_static",
+     "tag": {
+      "ident": 11976,
+      "name": "objects\\multi\\koth\\koth_hill_static"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2294,8 +2678,10 @@
     {
      "placed_objects": [],
      "offset": 56408,
-     "tag_index": 11977,
-     "tag": "objects\\multi\\oddball\\oddball_ball_spawn_point",
+     "tag": {
+      "ident": 11977,
+      "name": "objects\\multi\\oddball\\oddball_ball_spawn_point"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2305,8 +2691,10 @@
     {
      "placed_objects": [],
      "offset": 56420,
-     "tag_index": 11978,
-     "tag": "objects\\multi\\territories\\territory_static",
+     "tag": {
+      "ident": 11978,
+      "name": "objects\\multi\\territories\\territory_static"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2316,8 +2704,10 @@
     {
      "placed_objects": [],
      "offset": 56432,
-     "tag_index": 11979,
-     "tag": "objects\\multi\\vip\\vip_destination_static",
+     "tag": {
+      "ident": 11979,
+      "name": "objects\\multi\\vip\\vip_destination_static"
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 0,
      "count_on_map": 0,
@@ -2398,8 +2788,10 @@
       }
      ],
      "offset": 56444,
-     "tag_index": 28198,
-     "tag": -1,
+     "tag": {
+      "ident": 28198,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 255,
      "count_on_map": 2,
@@ -2445,8 +2837,10 @@
       }
      ],
      "offset": 56456,
-     "tag_index": 28201,
-     "tag": -1,
+     "tag": {
+      "ident": 28201,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 255,
      "count_on_map": 1,
@@ -2492,8 +2886,10 @@
       }
      ],
      "offset": 56468,
-     "tag_index": 28204,
-     "tag": -1,
+     "tag": {
+      "ident": 28204,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 255,
      "count_on_map": 1,
@@ -2539,8 +2935,10 @@
       }
      ],
      "offset": 56480,
-     "tag_index": 28207,
-     "tag": -1,
+     "tag": {
+      "ident": 28207,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 255,
      "count_on_map": 1,
@@ -2586,11 +2984,741 @@
       }
      ],
      "offset": 56492,
-     "tag_index": 28210,
-     "tag": -1,
+     "tag": {
+      "ident": 28210,
+      "name": null
+     },
      "run_time_minimium": 0,
      "run_time_maximium": 1,
      "count_on_map": 1,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56504,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56516,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56528,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56540,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56552,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56564,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56576,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56588,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56600,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56612,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56624,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56636,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56648,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56660,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56672,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56684,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56696,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56708,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56720,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56732,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56744,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56756,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56768,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56780,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56792,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56804,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56816,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56828,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56840,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56852,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56864,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56876,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56888,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56900,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56912,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56924,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56936,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56948,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56960,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56972,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56984,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 56996,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57008,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57020,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57032,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57044,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57056,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57068,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57080,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57092,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57104,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57116,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57128,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57140,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57152,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
+     "design_time_maximium": 255,
+     "cost": -1
+    },
+    {
+     "placed_objects": [],
+     "offset": 57164,
+     "tag": {
+      "ident": -1,
+      "name": null
+     },
+     "run_time_minimium": 0,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
      "design_time_maximium": 255,
      "cost": -1
     }
