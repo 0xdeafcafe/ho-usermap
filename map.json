@@ -7,7 +7,7 @@
   "magic": "chdr",
   "length": 264,
   "content": {
-   "name": "sym syn",
+   "name": "test",
    "description": "",
    "author": "0xdeafcafe"
   }
@@ -16,7 +16,7 @@
   "magic": "mapv",
   "length": 57504,
   "content": {
-   "name": "sym syn",
+   "name": "test",
    "description": "",
    "author": "0xdeafcafe",
    "spawned_object_count": 200,
@@ -466,15 +466,52 @@
      "cost": 0
     },
     {
-     "placed_objects": [],
+     "placed_objects": [
+      {
+       "offset": 1404,
+       "tag_entry_index": 33,
+       "spawn_coordinates": {
+        "x": 82.51057434082031,
+        "y": -100.06541442871094,
+        "z": 195.37811279296875
+       },
+       "spawn_position": {
+        "right": {
+         "x": 0.9999740719795227,
+         "y": -0.007211788557469845,
+         "z": -0.00017430965090170503
+        },
+        "up": {
+         "x": 0.007211348507553339,
+         "y": 0.9999711513519287,
+         "z": -0.002403735416010022
+        }
+       },
+       "flags": {
+        "place_at_start": true,
+        "symmetry": "both"
+       },
+       "team": 8,
+       "tag_specific_option": 1,
+       "respawn_time": 30,
+       "type": "1",
+       "shape_type": 0,
+       "shape_size": {
+        "width/depth": 0,
+        "depth": 0,
+        "top": 0,
+        "bottom": 0
+       }
+      }
+     ],
      "offset": 54500,
      "tag": {
       "ident": 5553,
       "name": "objects\\weapons\\rifle\\sniper_rifle\\sniper_rifle"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 0,
-     "count_on_map": 0,
+     "run_time_maximium": 1,
+     "count_on_map": 1,
      "design_time_maximium": 255,
      "cost": 0
     },
@@ -596,15 +633,52 @@
      "cost": 0
     },
     {
-     "placed_objects": [],
+     "placed_objects": [
+      {
+       "offset": 1488,
+       "tag_entry_index": 43,
+       "spawn_coordinates": {
+        "x": 82.75593566894531,
+        "y": -99.62139892578125,
+        "z": 195.37811279296875
+       },
+       "spawn_position": {
+        "right": {
+         "x": 0.9995121359825134,
+         "y": -0.031235024333000183,
+         "z": -0.00011656248534563929
+        },
+        "up": {
+         "x": 0.031234653666615486,
+         "y": 0.9995092153549194,
+         "z": -0.002402625046670437
+        }
+       },
+       "flags": {
+        "place_at_start": true,
+        "symmetry": "both"
+       },
+       "team": 8,
+       "tag_specific_option": 0,
+       "respawn_time": 30,
+       "type": "1",
+       "shape_type": 0,
+       "shape_size": {
+        "width/depth": 0,
+        "depth": 0,
+        "top": 0,
+        "bottom": 0
+       }
+      }
+     ],
      "offset": 54620,
      "tag": {
       "ident": 5367,
       "name": "objects\\weapons\\pistol\\plasma_pistol\\plasma_pistol"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 0,
-     "count_on_map": 0,
+     "run_time_maximium": 1,
+     "count_on_map": 1,
      "design_time_maximium": 255,
      "cost": 0
     },
@@ -895,28 +969,102 @@
      "cost": 0
     },
     {
-     "placed_objects": [],
+     "placed_objects": [
+      {
+       "offset": 1236,
+       "tag_entry_index": 66,
+       "spawn_coordinates": {
+        "x": 82.91070556640625,
+        "y": -101.322509765625,
+        "z": 195.40721130371094
+       },
+       "spawn_position": {
+        "right": {
+         "x": 0.9999920129776001,
+         "y": -0.002643060637637973,
+         "z": 0.0030200760811567307
+        },
+        "up": {
+         "x": -0.002341000596061349,
+         "y": 0.22708100080490112,
+         "z": 0.9738730192184448
+        }
+       },
+       "flags": {
+        "place_at_start": true,
+        "symmetry": "both"
+       },
+       "team": 8,
+       "tag_specific_option": 1,
+       "respawn_time": 30,
+       "type": "1",
+       "shape_type": 0,
+       "shape_size": {
+        "width/depth": 0,
+        "depth": 0,
+        "top": 0,
+        "bottom": 0
+       }
+      }
+     ],
      "offset": 54896,
      "tag": {
       "ident": 5555,
       "name": "objects\\weapons\\support_high\\rocket_launcher\\rocket_launcher"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 0,
-     "count_on_map": 0,
+     "run_time_maximium": 1,
+     "count_on_map": 1,
      "design_time_maximium": 255,
      "cost": 0
     },
     {
-     "placed_objects": [],
+     "placed_objects": [
+      {
+       "offset": 1320,
+       "tag_entry_index": 67,
+       "spawn_coordinates": {
+        "x": 82.77103424072266,
+        "y": -100.71702575683594,
+        "z": 195.40721130371094
+       },
+       "spawn_position": {
+        "right": {
+         "x": 0.9951781630516052,
+         "y": 0.0980832502245903,
+         "z": 0.0003395763924345374
+        },
+        "up": {
+         "x": -0.09808216243982315,
+         "y": 0.9951754808425903,
+         "z": -0.0023922075051814318
+        }
+       },
+       "flags": {
+        "place_at_start": true,
+        "symmetry": "both"
+       },
+       "team": 8,
+       "tag_specific_option": 0,
+       "respawn_time": 30,
+       "type": "1",
+       "shape_type": 0,
+       "shape_size": {
+        "width/depth": 0,
+        "depth": 0,
+        "top": 0,
+        "bottom": 0
+       }
+      }
+     ],
      "offset": 54908,
      "tag": {
       "ident": 5554,
       "name": "objects\\weapons\\support_high\\spartan_laser\\spartan_laser"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 0,
-     "count_on_map": 0,
+     "run_time_maximium": 1,
+     "count_on_map": 1,
      "design_time_maximium": 255,
      "cost": 0
     },
@@ -1272,51 +1420,15 @@
      "cost": 0
     },
     {
-     "placed_objects": [
-      {
-       "offset": 1068,
-       "tag_entry_index": 95,
-       "spawn_coordinates": {
-        "x": 85.04724884033203,
-        "y": -102.78143310546875,
-        "z": 195.40721130371094
-       },
-       "spawn_position": {
-        "right": {
-         "x": 0.9999971389770508,
-         "y": 0.00019174706540070474,
-         "z": -0.0024033784866333008
-        },
-        "up": {
-         "x": 0.002403832506388426,
-         "y": -0.0024037910625338554,
-         "z": 0.9999942779541016
-        }
-       },
-       "flags": {
-        "place_at_start": true,
-        "symmetry": "symmetrical"
-       },
-       "team": 8,
-       "tag_specific_option": 0,
-       "respawn_time": 30,
-       "shape_type": 0,
-       "shape_size": {
-        "width/depth": 0,
-        "depth": 0,
-        "top": 0,
-        "bottom": 0
-       }
-      }
-     ],
+     "placed_objects": [],
      "offset": 55244,
      "tag": {
       "ident": 11955,
       "name": "objects\\gear\\human\\military\\crate_packing\\crate_packing"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 1,
-     "count_on_map": 1,
+     "run_time_maximium": 0,
+     "count_on_map": 0,
      "design_time_maximium": 255,
      "cost": 0
     },
@@ -2181,6 +2293,7 @@
        "team": 8,
        "tag_specific_option": 1,
        "respawn_time": 30,
+       "type": "9",
        "shape_type": 2,
        "shape_size": {
         "width/depth": 1,
@@ -2193,19 +2306,19 @@
        "offset": 984,
        "tag_entry_index": 160,
        "spawn_coordinates": {
-        "x": 94.08792877197266,
-        "y": -116.05014038085938,
-        "z": 195.2325439453125
+        "x": 83.83499908447266,
+        "y": -100.19599914550781,
+        "z": 170.5
        },
        "spawn_position": {
         "right": {
-         "x": 0.043129727244377136,
-         "y": -0.9990694522857666,
-         "z": 0
+         "x": 0.04309971258044243,
+         "y": -0.9990707635879517,
+         "z": -0.0000029791344786644913
         },
         "up": {
-         "x": 0,
-         "y": 0,
+         "x": -8.517545557751305e-10,
+         "y": -0.0000029819420888088644,
          "z": 1
         }
        },
@@ -2216,12 +2329,13 @@
        "team": 8,
        "tag_specific_option": 1,
        "respawn_time": 30,
+       "type": "9",
        "shape_type": 2,
        "shape_size": {
-        "width/depth": 1.000213623046875,
+        "width/depth": 1,
         "depth": 1,
-        "top": 1.000213623046875,
-        "bottom": 0.250396728515625
+        "top": 1,
+        "bottom": 0.25
        }
       }
      ],
@@ -2231,8 +2345,8 @@
       "name": "objects\\multi\\teleporter_2way\\teleporter_2way"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 0,
-     "count_on_map": 0,
+     "run_time_maximium": 2,
+     "count_on_map": 2,
      "design_time_maximium": 255,
      "cost": 0
     },
@@ -2343,6 +2457,7 @@
        "team": 8,
        "tag_specific_option": 0,
        "respawn_time": 0,
+       "type": "c",
        "shape_type": 0,
        "shape_size": {
         "width/depth": 0,
@@ -2624,41 +2739,152 @@
      "cost": 0
     },
     {
-     "placed_objects": [],
+     "placed_objects": [
+      {
+       "offset": 1572,
+       "tag_entry_index": 188,
+       "spawn_coordinates": {
+        "x": 85.35678100585938,
+        "y": -100.89578247070312,
+        "z": 195.37811279296875
+       },
+       "spawn_position": {
+        "right": {
+         "x": 0.9999971389770508,
+         "y": -0.00019162893295288086,
+         "z": -0.002404300030320883
+        },
+        "up": {
+         "x": 0.002403832506388426,
+         "y": -0.0024037910625338554,
+         "z": 0.9999942779541016
+        }
+       },
+       "flags": {
+        "place_at_start": true,
+        "symmetry": "both"
+       },
+       "team": 8,
+       "tag_specific_option": 0,
+       "respawn_time": 0,
+       "type": "f",
+       "shape_type": 0,
+       "shape_size": {
+        "width/depth": 0,
+        "depth": 0,
+        "top": 0,
+        "bottom": 0
+       }
+      }
+     ],
      "offset": 56360,
      "tag": {
       "ident": 11973,
       "name": "objects\\multi\\assault\\assault_bomb_spawn_point"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 0,
-     "count_on_map": 0,
+     "run_time_maximium": 1,
+     "count_on_map": 1,
      "design_time_maximium": 255,
      "cost": 0
     },
     {
-     "placed_objects": [],
+     "placed_objects": [
+      {
+       "offset": 1656,
+       "tag_entry_index": 189,
+       "spawn_coordinates": {
+        "x": 84.46215057373047,
+        "y": -101.62812805175781,
+        "z": 195.40721130371094
+       },
+       "spawn_position": {
+        "right": {
+         "x": 0.9999969601631165,
+         "y": 0.0005751230055466294,
+         "z": -0.0024024564772844315
+        },
+        "up": {
+         "x": 0.002403832506388426,
+         "y": -0.0024037910625338554,
+         "z": 0.9999942779541016
+        }
+       },
+       "flags": {
+        "place_at_start": true,
+        "symmetry": "both"
+       },
+       "team": 8,
+       "tag_specific_option": 0,
+       "respawn_time": 0,
+       "type": "11",
+       "shape_type": 2,
+       "shape_size": {
+        "width/depth": 1.000213623046875,
+        "depth": 0,
+        "top": 0.500335693359375,
+        "bottom": 0.100250244140625
+       }
+      }
+     ],
      "offset": 56372,
      "tag": {
       "ident": 11974,
       "name": "objects\\multi\\assault\\assault_bomb_goal_area"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 0,
-     "count_on_map": 0,
+     "run_time_maximium": 1,
+     "count_on_map": 1,
      "design_time_maximium": 255,
      "cost": 0
     },
     {
-     "placed_objects": [],
+     "placed_objects": [
+      {
+       "offset": 1068,
+       "tag_entry_index": 190,
+       "spawn_coordinates": {
+        "x": 84.00162506103516,
+        "y": -104.24612426757812,
+        "z": 195.40721130371094
+       },
+       "spawn_position": {
+        "right": {
+         "x": 0.9999962449073792,
+         "y": 0.0013421131297945976,
+         "z": -0.0024006112944334745
+        },
+        "up": {
+         "x": 0.002403832506388426,
+         "y": -0.0024037910625338554,
+         "z": 0.9999942779541016
+        }
+       },
+       "flags": {
+        "place_at_start": true,
+        "symmetry": "both"
+       },
+       "team": 8,
+       "tag_specific_option": 0,
+       "respawn_time": 0,
+       "type": "17",
+       "shape_type": 2,
+       "shape_size": {
+        "width/depth": 0.750274658203125,
+        "depth": 0,
+        "top": 0.500335693359375,
+        "bottom": 0.000457763671875
+       }
+      }
+     ],
      "offset": 56384,
      "tag": {
       "ident": 11975,
       "name": "objects\\multi\\juggernaut\\juggernaut_destination_static"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 0,
-     "count_on_map": 0,
+     "run_time_maximium": 1,
+     "count_on_map": 1,
      "design_time_maximium": 255,
      "cost": 0
     },
@@ -2689,15 +2915,52 @@
      "cost": 0
     },
     {
-     "placed_objects": [],
+     "placed_objects": [
+      {
+       "offset": 1152,
+       "tag_entry_index": 193,
+       "spawn_coordinates": {
+        "x": 83.97142791748047,
+        "y": -103.30618286132812,
+        "z": 195.37811279296875
+       },
+       "spawn_position": {
+        "right": {
+         "x": 0.9998095631599426,
+         "y": 0.019370969384908676,
+         "z": 0.002356781857088208
+        },
+        "up": {
+         "x": -0.0024037910625338554,
+         "y": 0.002403832506388426,
+         "z": 0.9999942779541016
+        }
+       },
+       "flags": {
+        "place_at_start": true,
+        "symmetry": "both"
+       },
+       "team": 8,
+       "tag_specific_option": 0,
+       "respawn_time": 0,
+       "type": "14",
+       "shape_type": 2,
+       "shape_size": {
+        "width/depth": 1.999969482421875,
+        "depth": 0,
+        "top": 1.000213623046875,
+        "bottom": 0.000457763671875
+       }
+      }
+     ],
      "offset": 56420,
      "tag": {
       "ident": 11978,
       "name": "objects\\multi\\territories\\territory_static"
      },
      "run_time_minimium": 0,
-     "run_time_maximium": 0,
-     "count_on_map": 0,
+     "run_time_maximium": 1,
+     "count_on_map": 1,
      "design_time_maximium": 255,
      "cost": 0
     },
@@ -2743,6 +3006,7 @@
        "team": 1,
        "tag_specific_option": 0,
        "respawn_time": 30,
+       "type": "0",
        "shape_type": 0,
        "shape_size": {
         "width/depth": 0,
@@ -2778,6 +3042,7 @@
        "team": 1,
        "tag_specific_option": 0,
        "respawn_time": 30,
+       "type": "0",
        "shape_type": 0,
        "shape_size": {
         "width/depth": 0,
@@ -2827,6 +3092,7 @@
        "team": 1,
        "tag_specific_option": 0,
        "respawn_time": 30,
+       "type": "0",
        "shape_type": 0,
        "shape_size": {
         "width/depth": 0,
@@ -2876,6 +3142,7 @@
        "team": 8,
        "tag_specific_option": 0,
        "respawn_time": 30,
+       "type": "0",
        "shape_type": 0,
        "shape_size": {
         "width/depth": 0,
@@ -2925,6 +3192,7 @@
        "team": 1,
        "tag_specific_option": 255,
        "respawn_time": 30,
+       "type": "0",
        "shape_type": 0,
        "shape_size": {
         "width/depth": 0,
@@ -2974,6 +3242,7 @@
        "team": 1,
        "tag_specific_option": 0,
        "respawn_time": 30,
+       "type": "0",
        "shape_type": 0,
        "shape_size": {
         "width/depth": 0,
@@ -3724,9 +3993,5 @@
     }
    ]
   }
- },
- {
-  "magic": "_eof",
-  "length": 17
  }
 ]
