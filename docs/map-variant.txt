@@ -20,6 +20,19 @@ object
 		team 8 - 0x07
 		neutual - 0x08
 	
+	spawn order (type byte) (offset 0x40) (specific {gamemode}_goal_objects)	
+		0 - 0x00
+		1 - 0x01
+		2 - 0x02
+		3 - 0x03
+		4 - 0x04
+		5 - 0x05
+		6 - 0x06
+		7 - 0x07
+		8 - 0x08
+		9 - 0x09
+		10 - 0x0A
+	
 	spare clip (type byte) (offset 0x40) (specific weapon)	
 		0 - 0x00
 		1 - 0x01
